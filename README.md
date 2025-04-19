@@ -75,5 +75,11 @@ This project uses **Anaconda** for environment management and includes a preconf
 
 ---
 
+## Reference
+
+- 🔗 **Original Geneformer Model**: [Hugging Face – ctheodoris/Geneformer](https://huggingface.co/ctheodoris/Geneformer)  
+- 📄 **Paper**: *Transfer learning enables predictions in network biology*  
+  [Nature (2023)](https://www.nature.com/articles/s41586-023-06139-9.epdf?sharing_token=u_5LUGVkd3A8zR-f73lU59RgN0jAjWel9jnR3ZoTv0N2UB4yyXENUK50s6uqjXH69sDxh4Z3J4plYCKlVME-W2WSuRiS96vx6t5ex2-krVDS46JkoVvAvJyWtYXIyj74pDWn_DutZq1oAlDaxfvBpUfSKDdBPJ8SKlTId8uT47M%3D)
+
 _Repository maintained by Đỗ Hoàng Quân, Research Student in BioTuring._
 
