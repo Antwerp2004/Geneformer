@@ -1,4 +1,4 @@
-> **Note:** I'm working over an SSH remote connection, so downloading large folders locally can be slow and difficult to gauge in advance. To make collaboration easier, this repo contains the core training/testing scripts and essential code—no need to pull down every dataset or environment folder.
+> **Note:** I'm working over an SSH remote connection, so downloading large folders locally can be slow and difficult. I will just upload and update some of the code files where I'm implementing the training and testing on Geneformer.
 
 # Geneformer Project
 
